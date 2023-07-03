@@ -1,0 +1,107 @@
+{
+    "ABOUT": [
+        {
+            "id": 1,
+            "header": "MISSION",
+            "paragraph": "A model training provider characterized by efficiency, industry and integrity providing broad-based knowledge, new skills and a range of competencies to clients responsive to a dynamic environment."
+        },
+        {
+            "id": 2,
+            "header": "VISION",
+            "paragraph": "To be the center of excellence in management training, consultancy and research."
+        },
+        {
+            "id": 3,
+            "header": "GOALS",
+            "paragraph": "To maintain the leadership in training, consultancy and research, seeking to trigger high standards of efficiency, productivity and good governance."
+        },
+        {
+            "id": 4,
+            "header": "MDI at a Glance",
+            "paragraph": "It is the Management Development Institute (MDI) stance that an integrated approach to capacity building/development is what The Gambia urgently needs, where it is recognized and accepted that powerful people build strong institutions, but strong institutions are also needed to educate powerful people.",
+            "paragraph1": "The execution of our mandate to build human capacity and enhance professional development, for not only the public but the private and NGO sectors, has been going on for over thirty (30) years and many public servants and other Gambians have benefited from various training programmes – Management, Administration, Accounting, Business Studies, Project Planning, Monitoring and Evaluation, Procurement and Supplies, Banking and Finance, Policy Analysis, Rural Development, Gender and Development,Peace & Conflict Studies, Women and Leadership and Micro and Small Enterprise Promotion Training (M.S.E.P.T) .And our newly launched programme in Post Graduate Diploma in Management Studies." 
+            },
+        {
+            "id": 5,
+            "header": "HISTORY",
+            "paragraph": "Management Development Institute (MDI) was established in 1982 by an Act of Parliament to provide management training, consultancy and research to the public, private and NGO sectors. Since its inception, MDI has worked successfully towards the fulfillment of its objectives. The institution was actively involved in the implementation of the Government’s Administrative Reform Programme (ARP) developed in 1986 and played a key role in providing technical advice and input in all administrative reform policy statements submitted to the Cabinet and adopted by the Government.",
+            "paragraph1": "The Institute also trained and equipped Government officials with the necessary skills to fulfill the objectives of major Government development programs such as the Economic Recovery Programme (ERP) of the 1980s, the Programme for Sustained Development (PSD) of the 1990s, Strategy for Poverty Alleviation (SPA) of the 2000s and most recently, the Programme for Accelerated Growth and Employment (PAGE).",
+            "paragraph2": " This is what initially constituted the core mandate of the MDI and which was guided by key strategic priorities such as improved service delivery, quality and access; improved efficiency of human resource management and development practices, norms and standards, among many others.",
+            "paragraph3": "MDI continues to train and equip officials in the public and private sectors and in non-governmental (NGOs) with the necessary skills and attitudes to realize the numerous national development aspirations and blueprints."
+            }
+        
+    ],
+    "ADMINISTRATION": [
+        {
+            "id": 6,
+            "heading": "ADMISSION", 
+            "paragraph": "The institute has two cohorts of intakes in the year. The first cohort is conducted every January for the January – June intakes (for certificate courses) and January-December intakes (for diploma courses). The second cohort is conducted every July for the July-December (for certificate courses) and July – March intakes (for diploma courses)."
+        },
+        {
+            "id": 7,
+            "heading": "REGISTRY",
+            "paragraph": "The primary mission of the Registrar’s office is to facilitate the academic experience of students enrolled  at MDI, from the time of registration to graduation."
+        },
+        {
+            "id": 8,
+            "heading": "RESEARCH & CONSULTANCY",
+            "paragraph": "All MDI Business and Entrepreneurial related education, training, research and consultancy are now concentrated on the MDI campus in Kanifing since September, 2009.  MDI continues to use UTG faculty to teach in our programmes and this has strengthened our teaching and improved our credibility."
+        }    
+    ],
+    "REGISTRY": [
+        {
+            "id": 10,
+            "header": "REGISTRY",
+            "paragraph": " The primary mission of the Registrar’s office is to facilitate the academic experience of students enrolled  at MDI, from the time of registration to graduation.",
+            "paragraph1": "The Registry is the central focus for academic administration in the institute and is responsible for the management, co-ordination and delivery of academic-related services within the student life cycle, and the associated data management.  It is also responsible for keeping all student records past and present and ensuring the accuracy and integrity of such records; and examinations leading to the award of certificates.",
+            "paragraph2":  "The Registrar’s office helps to implement and enforce academic and administrative policies; as well as provides assistance in the development of, and modifications to, such policies and procedures that will best serve the institution.",
+            "paragraph3":  "The Registrar’s office supports the following activities:",
+    
+            "list": "Updating, maintenance and publication of curricula",
+            "list1": "Enrollment campaign",
+            "list2": "New/old student registration and enrollment",
+            "list3": "Class and examination scheduling",
+            "list4": "Fees assessment verification",
+            "list5": "Verification of certificates",
+            "list6": "Issuance of official academic transcripts and certificates and transfer credentials",
+            "list7": "Student academic records maintenance",
+            "list8": "Maintenance of schedule of classes and teaching loads",
+            "list9": "Updating and maintenance of periodic calendar of activities",
+            "list10": "Assignment of classrooms and other instructional facilities",
+            "list11": "Examination supervision",
+            "list12": "Advisory services with regard to academic rules and regulation, procedures etc.",
+            "list13": "Other services as directed by the Director-General."
+        }
+    ],
+    "ADMISSION": [
+        {
+            "id": 9,
+            "header": "ADMINISTRATION",
+            "heading": ["Admission", "Intakes", "Application Procedures","Interviews"],
+            "paragraph": "The institute has two cohorts of intakes in the year as explained below:",        
+            "list": " The first cohort is conducted every January for the January –June intakes (for certificate courses) and January-December intakes (for diploma courses).",
+            "list1": "The second cohort is conducted every July for the July-December (for certificate courses) and July – March intakes (for diploma courses).",
+            "list2": " Applicants are to attend the interview at the centres they submitted their forms and on the date stipulated for that centre accepts on peculiar grounds beyond control for which the applicant would be interviewed as agreed by the interview panel."
+        }
+    ],
+    "RESEARCH AND CONSULTANCY": [
+        {
+            "id": 11,
+            "header": "RESEARCH & CONSULTANCY",
+            "heading": "Resource Mobilization and Partnerships",
+            "heading1": "Consultancies and Research",
+    
+            "paragraph": "All MDI Business and Entrepreneurial related education, training, research and consultancy are now concentrated on the MDI campus in Kanifing since September, 2009.  MDI continues to use UTG faculty to teach in our programmes and this has strengthened our teaching and improved our credibility.  MDI also collaborates on research, consulting and tailor-made programmes with institutions Research, Consultancy and Professional Development Center at MDI. We sincerely hoping to ensure the rationalization and optimal use of scarce physical, human and financial resources, thereby having a greater impact on capacity building, employment creation and socio-economic development.",
+    
+            "paragraph1": "The year 2011-2012 was the year of partnerships and resource mobilization. MDI has embarked on an aggressive resource mobilization campaign to supplement the revenues we receive from student tuitions and Government subventions.  MDI partnered with the Islamic Development Bank through Gamworks under the Technical Assistance Agreement (Grant) on Capacity Building in Project Management and the African Development Bank through the Ministry of Finance and Economic Affairs under the auspices of the Institutional Support for Economic and Financial Governance II Project.",
+            "paragraph2":  " MDI signed an MOU with the Social Development Fund (SDF) Entrepreneurship and Micro Finance Project (EPMDP) under the SDF on July 21, 2010, to cover minor rehabilitation and equipment of facilities and start-up operations, scholarships, a business incubator programme, advisory services to Small and Medium Enterprises (SMEs), entrepreneurship lectures, etc. and to deliver Micro and Small Enterprise Promotion Training (MSEPT) courses once in 2010, and twice each in 2011 and 2012 with an expected outreach of 140 trainees, of which at least 50% will be female.  The funds are received in tranches.  In 2011-2012, MDI continued with the implementation of grant activities.",
+            "paragraph3":  "MDI is committed to improve entrepreneurship training in The Gambia. MDI firmly believes entrepreneurship is a gateway to opportunities for those traditionally excluded from mainstream economic and political activities. Entrepreneurship is the link between ideas, resources, and daring individuals resulting in sustainable economic development.  The Gambia needs entrepreneurs with creative business concepts and the courage to turn these concepts into sustainable enterprises, which can create jobs while also providing society with needed products and services.  However, most small businesses fail to achieve meaningful growth, are marginally profitable, and operate as “hand-to-mouth” types of ventures.",
+            "paragraph4":  "  With the assistance of the SDF-EPMDP, MDI launched a Diploma in MSEPT, which started in February 2010.  The first batch graduated eleven (11) students, whiles the second batch graduated seventeen (17) students.  This class ran from November 5 2010 to July 2011.  The third batch commenced on September 7, 2011 and ended August 30, 2012 and was made up of twenty-four (24) students.  The 4th cohort started in October 2012 and consisted of fifty (50) candidates, twelve (12) females and thirty-eight (38) males.  All female students are awarded scholarships.  Eighteen (18) males were also awarded scholarships and the remaining being fee-paying.",
+            "paragraph5": "In 2009/2010, the Institute benefitted from a UNDP grant to establish and staff a new Consultancy and Research Division, MDI/UTG Consulting. During the period under review (2011-2012), MDI/UTG consulting was awarded over twenty-five (25) assignments. Thirteen (13) of these have been completed while the remaining twelve (12) are being implemented or awaiting implementation.",
+            "paragraph6": "In addition to the above consultancy assignments, the Institute through the consultancy division has signed a number of Memorandum of Understandings (MOUs) with government and non-government organizations. These arrangements attest to the quality of our delivery and signify the commitment on the side of our clients to contract our service.",
+            "paragraph7": "Following internal strengthening efforts by organizing Training of Trainers (TOT) courses and sponsoring our faculty and staff to attend workshops and conferences abroad, the Institute bidded and successfully implemented more than ten (10) training and consultancy assignments, benefiting both Government and non-government employees, in 2011-2012.  Over five hundred (500) adult learners successfully completed our short-courses, with sixty percent (60%) coming from Government institutions and the remaining forty percent (40%) from the private sector, NGOs and international agencies within the country. The three hundred (300) public servants who have benefitted from our trainings represent a significant push in the Government’s efforts to build its human resource.",
+            "paragraph8": "Like other Institutions based consultancy firms, MDI Consulting enjoys an extended pool of intellectuals from within and outside the country. Partnerships for growth, efficiency, effectiveness and timeliness in service delivery are core to our overall strategy. In this light, we continue to partner the consultancy division with institutions and individuals around the world who share our institutional values. We are in partnership with consultancy firms in Nigeria, Ghana, Canada and UK. This has extended our market and source of experts and has added great value to our work, while boosting our revenue base. Individual consultants from Government and private sector continue to serve as associates in various assignments, thereby strengthening our project teams.",
+            "paragraph9": "In the year 2011-2012, we have also partnered with Consultants from Ghana Institute of Public Administration (GIMPA) and local private consultants in delivering two major training programmes in Project Management and Procurement Management to the staff of IDB-funded project in the country funded by IDB and GoTG."
+        }
+    ]
+}

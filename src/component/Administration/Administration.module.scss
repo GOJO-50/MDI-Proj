@@ -1,0 +1,94 @@
+.wrapper{
+
+    .container{
+
+        .header{
+            @media (max-width: 640px) {
+                background-size: 95%;
+                background-repeat: no-repeat;
+                font-size: 46pt;
+                padding: 9rem 0rem 0rem 0rem ;
+            }
+
+            @media (max-width: 480px) {
+                background-size: 100%;
+                background-repeat: no-repeat;
+                font-size: 30pt;
+                padding: 5rem 0rem 0rem 0rem ;
+            }
+
+            margin: 0 auto;
+            font-size: 60pt;
+            text-align: center;
+            background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)), url(../../assets/Background3.jpg);
+            background-size: cover;
+            padding: 20rem 0rem 10rem 0rem ;
+            color: transparent;
+            -webkit-text-stroke: 3px;
+            -webkit-text-stroke-color: azure;
+        }
+
+        .grid{
+            @media (max-width: 1024px){
+                width: 100%;
+                display: inline;
+            }
+            @media (max-width: 640px) {
+                width: 100%;
+                display: inline;
+                position:inherit;
+            }
+
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            position: absolute;
+            top: 27rem;           
+
+            .section{
+                    @media (max-width: 640px) {
+                        justify-content: center;
+                        align-items: center;                        
+                    }
+
+                background-color: azure;
+                border-radius: 20px;
+                padding: 20px;
+                margin: 10px;
+                box-shadow: #F5C32C -1px 5px 10px 2px;
+                
+
+                .heading{
+                    @media (max-width: 640px) {
+                        font-size: 20pt;
+                    }
+                    @media (max-width: 420px) {
+                       font-size: 12pt; 
+                    }
+
+                    font-size: 28pt;
+                }
+
+                .content{
+                    @media (max-width: 640px) {
+                        font-size: 12pt;
+                    }
+                    @media (max-width: 420px) {
+                       font-size: 10pt; 
+                    }
+
+                    font-size: 16pt;
+                }
+
+                .button{
+                background-color: #F5C32C;
+                border-radius: 40px;
+                border-style: none;
+                padding: 12px;
+                cursor: pointer;
+                font-weight: bolder;
+               }       
+              }        
+            }
+        }
+    }
+
