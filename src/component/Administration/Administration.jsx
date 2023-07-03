@@ -33,6 +33,7 @@ return (
               <p className={css.content}>
                   {admin.paragraph}
               </p>
+              
                   
               <Link to={`/admin/${n.toString()}`}>
               <motion.button
